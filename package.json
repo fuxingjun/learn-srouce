@@ -1,0 +1,9 @@
+{
+  "name": "learn-source",
+  "dependencies": {
+    "echarts": "^5.3.2",
+    "lodash": "^4.17.21",
+    "ramda": "^0.28.0"
+  },
+  "license": "MIT"
+}
