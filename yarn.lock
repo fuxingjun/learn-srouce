@@ -151,6 +151,18 @@ console-control-strings@^1.0.0, console-control-strings@^1.1.0:
   resolved "https://registry.npmmirror.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
   integrity sha512-ty/fTekppD2fIwRvnZAVdeOiGd1c7YXEixbgJTNzqcxJWKQnjJ/V1bNEEE6hygpM3WjwHFUVK6HTjWSzV4a8sQ==
 
+crc64-ecma182.js@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/crc64-ecma182.js/-/crc64-ecma182.js-1.0.0.tgz#0bf73bf2585b59c687f85773e7991df72d759f7a"
+  integrity sha512-Xv9BgF+jIp2NwHRTgzBvCrqmjm0ZySsjpAXiQSyC9L0oMficvF8DaDe3bBnz2ARV879BAvwYm9/MRf8cHwP7Ww==
+
+crc64-ecma182@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/crc64-ecma182/-/crc64-ecma182-1.0.0.tgz#52cf47679fbf5ae0ddf573a2068bab9c226f033e"
+  integrity sha512-89kjiit09mNJjjKSd+JZ4qfQoFPJWsKRh9I8049teU6/NrJOh6icRamlvD/7QiGO3aYTuXkA9kphs1uhKJDeAQ==
+  dependencies:
+    nan "^2.7.0"
+
 cssom@^0.5.0:
   version "0.5.0"
   resolved "https://registry.npmmirror.com/cssom/-/cssom-0.5.0.tgz#d254fa92cd8b6fbd83811b9fbaed34663cc17c36"
@@ -521,6 +533,11 @@ nan@^2.15.0:
   version "2.15.0"
   resolved "https://registry.npmmirror.com/nan/-/nan-2.15.0.tgz#3f34a473ff18e15c1b5626b62903b5ad6e665fee"
   integrity sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==
+
+nan@^2.7.0:
+  version "2.16.0"
+  resolved "https://registry.npmmirror.com/nan/-/nan-2.16.0.tgz#664f43e45460fb98faf00edca0bb0d7b8dce7916"
+  integrity sha512-UdAqHyFngu7TfQKsCBgAA6pWDkT8MAO7d0jyOecVhN5354xbLqdn8mV9Tat9gepAupm0bt2DbeaSC8vS52MuFA==
 
 node-fetch@^2.6.7:
   version "2.6.7"

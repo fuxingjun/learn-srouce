@@ -2,6 +2,8 @@
   "name": "learn-source",
   "dependencies": {
     "@antv/x6": "^1.32.0",
+    "crc64-ecma182": "^1.0.0",
+    "crc64-ecma182.js": "^1.0.0",
     "echarts": "^5.3.2",
     "fabric": "^5.2.1",
     "lodash": "^4.17.21",
